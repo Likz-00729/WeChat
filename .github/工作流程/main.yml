@@ -6,7 +6,7 @@ on:
 jobs:
   send_message:
     runs-on: ubuntu-latest
-    name: WeChatID:Likz-00729
+    name: WeChatID:18895392868
     steps:
     - name: checkout
       uses: actions/checkout@v3
